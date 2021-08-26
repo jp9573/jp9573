@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**jp9573/jp9573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Python, JavaScript, GCP, ReactJS, NodeJS, Django
+- 🌱 I’m currently learning AWS, Browser Extension
+- 👯 I’m looking to collaborate on ReactJS, Python, NodeJS
+- 💬 Ask me about Python, ReactJS and Cloud
 
-Here are some ideas to get you started:
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/jp9573)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jp9573.jp9573)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/jp9573)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jay-patel-17438695)
+[<img src="https://img.icons8.com/color/48/000000/contract-job.png" width="3.5%"/>](https://jaypatel.co.in/)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://medium.com/@jp9573)
+<a href="mailto:jp9573@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
+
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp9573)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp9573&show_icons=true)
+
