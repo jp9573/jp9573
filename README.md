@@ -8,9 +8,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/jp9573)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jp9573.jp9573)
 
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/jp9573)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jay-patel-17438695)
 [<img src="https://img.icons8.com/color/48/000000/contract-job.png" width="3.5%"/>](https://jaypatel.co.in/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jay-patel-17438695)
+[<img src="/assets/upwork.svg" width="3.5%"/>](https://www.upwork.com/o/profiles/users/_~01ccd1066d409f2b4d/)
+[<img src="/assets/stackoverflow.svg" width="3.5%"/>](https://stackoverflow.com/users/6202039/jay-patel)
 [<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://medium.com/@jp9573)
 <a href="mailto:jp9573@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
