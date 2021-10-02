@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi 👋, I am Jay
 
 - 🔭 I’m currently working on Python, JavaScript, GCP, ReactJS, NodeJS, Django
 - 🌱 I’m currently learning AWS, Browser Extension
