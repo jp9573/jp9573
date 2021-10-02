@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.icons8.com/color/48/000000/contract-job.png" width="3.5%"/>](https://jaypatel.co.in/)
+[<img src="https://img.icons8.com/dusk/48/000000/domain.png" width="3.5%"/>](https://jaypatel.co.in/)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jay-patel-17438695)
 [<img src="/assets/upwork.svg" width="3.5%"/>](https://www.upwork.com/o/profiles/users/_~01ccd1066d409f2b4d/)
 [<img src="/assets/stackoverflow.svg" width="3.5%"/>](https://stackoverflow.com/users/6202039/jay-patel)
