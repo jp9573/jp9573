@@ -1,4 +1,4 @@
-### Jay
+### Hi, I am Jay
 
 Building LLM systems at Amazon that can't go down. Millions of customers, real-time, every day.
 
